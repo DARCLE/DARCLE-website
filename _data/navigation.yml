@@ -1,0 +1,9 @@
+main:
+  - title: People
+    url: /people
+  - title: New Investigators
+    url: /new-investigators
+  - title: Activities
+    url: /activities
+  - title: Contact
+    url: /contact
