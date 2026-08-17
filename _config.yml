@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   that is, by sharing expertise and knowledge, and cooperating in the creation of common tools 
   and resources. We are open to people doing any kind of dense recordings (usually audio) as 
   long as their own goals align with ours.
-baseurl: /DARCLE # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
